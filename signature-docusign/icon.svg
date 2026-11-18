@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#DA291C"/>
+  <!-- feuille -->
+  <path d="M140 84 H312 L380 152 V412 Q380 428 364 428 H156 Q140 428 140 412 V100 Q140 84 156 84 Z" fill="#FFFFFF"/>
+  <!-- coin plié -->
+  <path d="M312 84 V136 Q312 152 328 152 H380 Z" fill="#F1C9C5"/>
+  <!-- lignes de texte -->
+  <rect x="180" y="148" width="104" height="18" rx="9" fill="#C9C8C4"/>
+  <rect x="180" y="190" width="160" height="18" rx="9" fill="#C9C8C4"/>
+  <!-- signature -->
+  <path d="M178 318 C 196 250, 236 240, 228 300 C 222 344, 252 336, 270 292 C 284 258, 306 262, 300 300 C 296 324, 318 326, 344 290"
+        fill="none" stroke="#DA291C" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- ligne de signature -->
+  <rect x="172" y="364" width="176" height="14" rx="7" fill="#222221"/>
+</svg>
