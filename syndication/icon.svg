@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#DA291C"/>
+  <!-- rails -->
+  <g fill="#FFFFFF" opacity=".35">
+    <rect x="96" y="112" width="320" height="56" rx="28"/>
+    <rect x="96" y="228" width="320" height="56" rx="28"/>
+    <rect x="96" y="344" width="320" height="56" rx="28"/>
+  </g>
+  <!-- souscriptions -->
+  <g fill="#FFFFFF">
+    <rect x="96" y="112" width="290" height="56" rx="28"/>
+    <rect x="96" y="228" width="200" height="56" rx="28"/>
+    <rect x="96" y="344" width="250" height="56" rx="28"/>
+  </g>
+  <!-- objectif -->
+  <rect x="330" y="76" width="22" height="360" rx="11" fill="#222221"/>
+</svg>

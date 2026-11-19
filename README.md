@@ -23,3 +23,13 @@ Lien direct : `https://raw.githubusercontent.com/ArkeaSDM/assets/main/signature-
 | `data-hub/icon.svg` | Source vectorielle |
 
 Lien direct : `https://raw.githubusercontent.com/ArkeaSDM/assets/main/data-hub/favicon.png`
+
+## Pilotage des syndications
+
+| Fichier | Usage |
+| --- | --- |
+| [`syndication/favicon.png`](syndication/favicon.png) | Favicon (64 px), utilisé par `doGet()` de l'outil Syndication |
+| `syndication/favicon-32.png`, `icon-192.png`, `icon-512.png` | Autres tailles |
+| `syndication/icon.svg` | Source vectorielle |
+
+Lien direct : `https://raw.githubusercontent.com/ArkeaSDM/assets/main/syndication/favicon.png`
